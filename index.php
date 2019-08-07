@@ -7,7 +7,7 @@
   <link rel="shortcut icon" href="assets/images/logo2.png" type="image/x-icon">
   <meta name="description" content="">
 
-  <link rel="manifest" href="manifest.json" />
+  <link rel="manifest" href="/manifest.json">
   
   <title>Home</title>
 
